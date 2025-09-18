@@ -1,1 +1,1 @@
-# Team-Number-96
+# 96.-Team-Name-Problem-Statement
