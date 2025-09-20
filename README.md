@@ -1,1 +1,1 @@
-# 96.-Team-Name-Problem-Statement
+# 42.-Team-Name-Problem-Statement
